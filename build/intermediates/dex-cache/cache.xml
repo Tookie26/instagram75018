@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/tookie/AndroidStudioProjects/Instagram75018/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/home/tookie/AndroidStudioProjects/Instagram75018/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.0_9917e7a9bdd4bffd97f2f47e621f35e8caf38410/classes.dex" />
+    </item>
+    <item
+        jar="/home/tookie/AndroidStudioProjects/Instagram75018/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/home/tookie/AndroidStudioProjects/Instagram75018/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.0_bcf676f658643b6157af063692eee49684ff43bb/classes.dex" />
+    </item>
+    <item
+        jar="/home/tookie/AndroidStudioProjects/Instagram75018/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/home/tookie/AndroidStudioProjects/Instagram75018/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_b541e0f94b54c5501501a5b7a986c8e5b8c5e48b/classes.dex" />
+    </item>
+    <item
+        jar="/home/tookie/AndroidStudioProjects/Instagram75018/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="2a44ce2d1a6c29db2567ae87cb5136dd8d20560d">
+        <dex dex="/home/tookie/AndroidStudioProjects/Instagram75018/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_5805736f5877df29e9d777e6b8860e29e79bd4f2/classes.dex" />
+    </item>
+    <item
+        jar="/home/tookie/AndroidStudioProjects/Instagram75018/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/home/tookie/AndroidStudioProjects/Instagram75018/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.0_5bbaebe7b42ea9897dd77617f6aab2b2cd9c6d18/classes.dex" />
+    </item>
+    <item
+        jar="/home/tookie/AndroidStudioProjects/Instagram75018/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/home/tookie/AndroidStudioProjects/Instagram75018/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_4697d770ce5a8dedaa3e19f0cd4d493c5d46e942/classes.dex" />
+    </item>
+    <item
+        jar="/home/tookie/AndroidStudioProjects/Instagram75018/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="3b79ffc3d761b8ecfe3f5543a582da5a9b8cc2e9">
+        <dex dex="/home/tookie/AndroidStudioProjects/Instagram75018/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4140f965a4a7e331cb1ebbcb4217b6fa3609ad03/classes.dex" />
+    </item>
+    <item
+        jar="/home/tookie/AndroidStudioProjects/Instagram75018/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/home/tookie/AndroidStudioProjects/Instagram75018/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.0_191376a9f70a0da40fc2f7a0dc2400663aff6527/classes.dex" />
+    </item>
+    <item
+        jar="/home/tookie/AndroidStudioProjects/Instagram75018/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/home/tookie/AndroidStudioProjects/Instagram75018/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.0_0b7618c007af4c001a7a90afad98f5455548edff/classes.dex" />
+    </item>
+    <item
+        jar="/home/tookie/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/home/tookie/AndroidStudioProjects/Instagram75018/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_86b780de169419294ec08b6929c12108785cb339/classes.dex" />
+    </item>
+    <item
+        jar="/home/tookie/AndroidStudioProjects/Instagram75018/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/home/tookie/AndroidStudioProjects/Instagram75018/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_49a7e57e028be14cfb9635a45a7ca492b25c2bdb/classes.dex" />
+    </item>
+    <item
+        jar="/home/tookie/AndroidStudioProjects/Instagram75018/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/home/tookie/AndroidStudioProjects/Instagram75018/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.0_7e114a6c61ae8fe94662f83336187e128f6d0fb9/classes.dex" />
+    </item>
+    <item
+        jar="/home/tookie/AndroidStudioProjects/Instagram75018/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/home/tookie/AndroidStudioProjects/Instagram75018/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.0_b66e8c86e6c39c34d40c2630198cdb2dca3feaf5/classes.dex" />
+    </item>
+    <item
+        jar="/home/tookie/AndroidStudioProjects/Instagram75018/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/home/tookie/AndroidStudioProjects/Instagram75018/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_4ad4584a5c8ade99b520bc22983804d2fb31b4cf/classes.dex" />
+    </item>
+    <item
+        jar="/home/tookie/AndroidStudioProjects/Instagram75018/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/home/tookie/AndroidStudioProjects/Instagram75018/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.0_81235dafbb9c15d5aaff7186b0471264427ce812/classes.dex" />
+    </item>
+    <item
+        jar="/home/tookie/AndroidStudioProjects/Instagram75018/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/home/tookie/AndroidStudioProjects/Instagram75018/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.0_0b2c7e38f118888809aaec29e5ae0261f5f3b2de/classes.dex" />
+    </item>
+    <item
+        jar="/home/tookie/AndroidStudioProjects/Instagram75018/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/home/tookie/AndroidStudioProjects/Instagram75018/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_2a6fd9014b6433de0c76a07bf02a74b4f5e795c3/classes.dex" />
+    </item>
+
+</items>
